@@ -1,4 +1,3 @@
-# Whatsapp-2.0-with-NEXT.JS
 This project was bootstrapped with Create React App.
 
 Available Scripts
